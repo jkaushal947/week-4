@@ -1,0 +1,9 @@
+W:\HTML,CSS\Jeevaka\week 4\Scores\Scores\bin\Debug\Scores.exe.config
+W:\HTML,CSS\Jeevaka\week 4\Scores\Scores\obj\Debug\Scores.csprojResolveAssemblyReference.cache
+W:\HTML,CSS\Jeevaka\week 4\Scores\Scores\bin\Debug\Scores.exe
+W:\HTML,CSS\Jeevaka\week 4\Scores\Scores\bin\Debug\Scores.pdb
+W:\HTML,CSS\Jeevaka\week 4\Scores\Scores\obj\Debug\Scores.exe
+W:\HTML,CSS\Jeevaka\week 4\Scores\Scores\obj\Debug\Scores.pdb
+W:\Week 3, C#\Jeevaka\Scores\Scores\bin\Debug\Scores.exe.config
+W:\Week 3, C#\Jeevaka\Scores\Scores\obj\Debug\Scores.exe
+W:\Week 3, C#\Jeevaka\Scores\Scores\obj\Debug\Scores.pdb
