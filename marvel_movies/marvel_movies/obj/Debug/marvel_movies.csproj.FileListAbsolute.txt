@@ -1,0 +1,6 @@
+W:\Week 3, C#\Jeevaka\marvel_movies\marvel_movies\bin\Debug\marvel_movies.exe.config
+W:\Week 3, C#\Jeevaka\marvel_movies\marvel_movies\bin\Debug\marvel_movies.exe
+W:\Week 3, C#\Jeevaka\marvel_movies\marvel_movies\bin\Debug\marvel_movies.pdb
+W:\Week 3, C#\Jeevaka\marvel_movies\marvel_movies\obj\Debug\marvel_movies.exe
+W:\Week 3, C#\Jeevaka\marvel_movies\marvel_movies\obj\Debug\marvel_movies.pdb
+W:\Week 3, C#\Jeevaka\marvel_movies\marvel_movies\obj\Debug\marvel_movies.csprojResolveAssemblyReference.cache
